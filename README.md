@@ -1,2 +1,1 @@
-# coursera
-Coursera test 
+#Shop is open!
