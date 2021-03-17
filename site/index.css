@@ -71,8 +71,6 @@ body {
   color: white;
 }
 .image {
-  background-color: #aaa;
-  text-align: center;
-  background: #ddd;
-  padding: 20px;
+  align-items: center;
+  width: 100%;
 }
